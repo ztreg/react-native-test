@@ -1,1 +1,1 @@
-# react-native-test
+prebuild command: npx expo prebuild
